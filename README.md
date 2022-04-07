@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I am Ivan Bowen</h1>
 - 🔭 We were currently working on **improving my tech skills**
 
@@ -12,7 +11,7 @@
 
 - 📫 How to reach me **bowenivan16@gmail.com**
 
-- ⚡ Fun fact **I love Postgres because of the elephant and I would like to git' it**
+- ⚡ Fun fact **I love Postgres because of the Elephant😄 and I would like to 'git'😄 it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
