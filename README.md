@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Ivan Bowen</h1>
 <h3 align="center">A passionate backend developer</h3>
-- 🔭 We were currently working on **improving my tech skills**
+- 🔭 I am currently working on **improving my tech skills**
 
 - 🌱 I’m currently learning **API's, data structures and algorithms with Python**
 
