@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking forward to helping **others and myself learn**
 
-- 📝 I regularly write articles on [https://medium.com/](https://medium.com/@ivan_bowen)
+- 📝 I regularly write articles on [https://medium.com/@ivan_bowen](https://medium.com/@ivan_bowen)
 
 - 💬 Ask me about **Django, Python, SQL**
 
