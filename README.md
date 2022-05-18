@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bowenivan16@gmail.com**
 
-- 🌐 Check my portfolio [website](https://bowenivan.dev)
+- 🌐 Check out my portfolio [website](https://bowenivan.dev)
 
 - ⚡ Fun fact **I love Postgres because of the Elephant🐘 and I would like to 'git'⚡ it**
 - 😄 You can't chase the bag without chasing the bug
