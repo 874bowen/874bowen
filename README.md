@@ -15,7 +15,7 @@
 
 - 📫 Check my portfolio website [bowenivan](https://bowenivan.dev)
 
-- ⚡ Fun fact **I love Postgres because of the Elephant😄 and I would like to 'git'😄 it**
+- ⚡ Fun fact **I love Postgres because of the Elephant🐘 and I would like to 'git'⚡ it**
 - 😄 You can't chase the bag without chasing the bug
 
 <h3 align="left">Connect with me:</h3>
