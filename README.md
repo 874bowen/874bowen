@@ -9,7 +9,7 @@
 
 - 📝 I regularly write programming articles on [https://medium.com/@ivan_bowen](https://medium.com/@ivan_bowen)
 
-- 💬 Ask me about **Django, Python, SQL, React**
+- 💬 Ask me about **Django, Python, SQL, React, Java**
 
 - 📫 How to reach me **bowenivan16@gmail.com**
 
