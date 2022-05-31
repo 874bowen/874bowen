@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working on **improving my tech skills**
 
-- 🌱 I’m currently learning **API's, data structures and algorithms with Python**
+- 🌱 I’m currently learning **fastAPI, data structures and algorithms with JavaScript**
 
 - 🤝 I’m looking forward to helping **others and myself learn**
 
