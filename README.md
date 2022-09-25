@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Ivan Bowen</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
 - 🔭 I am currently working on **improving my tech skills**
 
