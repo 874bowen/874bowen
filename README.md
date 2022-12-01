@@ -14,9 +14,12 @@
 - 🌐 Check out my portfolio [website](https://bowenivan.dev)
 
 - ⚡ Fun fact **I love Postgres because of the Elephant🐘 and I would like to 'git'⚡ it**
+
+- 💡Interesting fact: We can do machine learning on the browser using JavaScript
+- 
+- 📝 Planning on writing an article a month for the year 2023
+- 
 - 😄 You can't chase the bag without chasing the bug
-- 💡Interesting fact: We can do machine learning on the browser with JS
-- Planning on writing an article a month for the year 2023
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
