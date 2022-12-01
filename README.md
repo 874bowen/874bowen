@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I love Postgres because of the Elephant🐘 and I would like to 'git'⚡ it**
 - 😄 You can't chase the bag without chasing the bug
-- 💡Interesting fact:
+- 💡Interesting fact: We can do machine learning on the browser with JS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
