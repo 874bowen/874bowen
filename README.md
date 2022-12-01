@@ -11,8 +11,6 @@
 
 - 💬 Ask me about ** Python, SQL, React, Java**
 
-- 📫 How to reach me **bowenivan16@gmail.com**
-
 - 🌐 Check out my portfolio [website](https://bowenivan.dev)
 
 - ⚡ Fun fact **I love Postgres because of the Elephant🐘 and I would like to 'git'⚡ it**
