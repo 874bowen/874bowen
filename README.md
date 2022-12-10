@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I am Ivan Bowen</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I am currently working on **improving my tech skills**
+<!-- - 🔭 I am currently working on **improving my tech skills** -->
 
 - 🌱 I’m currently learning **Data structures and algorithms with JavaScript**
 
-- 🤝 I’m looking forward to helping **others and myself learn**
+<!-- - 🤝 I’m looking forward to helping **others and myself learn** -->
 
 - 📝 I also write programming articles on [https://medium.com/@ivan_bowen](https://medium.com/@ivan_bowen)
 
-- 💬 Ask me about ** Python, SQL, React, Java**
+- 💬 Ask me about ** JavaScript, SQL, React **
 
-- 🌐 Check out my portfolio [website](https://bowenivan.dev)
+<!-- - 🌐 Check out my portfolio [website](https://bowenivan.dev) -->
 
-- ⚡ Fun fact **I love Postgres because of the Elephant🐘 and I would like to 'git'⚡ it**
+<!-- - ⚡ Fun fact **I love Postgres because of the Elephant🐘 and I would like to 'git'⚡ it** -->
 
 - 💡Interesting fact: We can do machine learning on the browser using JavaScript
 
