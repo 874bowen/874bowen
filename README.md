@@ -7,7 +7,7 @@
 
 <!-- - 🤝 I’m looking forward to helping **others and myself learn** -->
 
-- 📝 I also write programming articles on [https://medium.com/@ivan_bowen](https://medium.com/@ivan_bowen)
+- 📝 I also write programming articles on [https://dev.to/bowen](https://dev.to/bowen)
 
 - 💬 Ask me about ** JavaScript, SQL, React **
 
