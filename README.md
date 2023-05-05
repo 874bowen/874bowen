@@ -13,6 +13,8 @@
 
 <!-- - 🌐 Check out my portfolio [website](https://bowenivan.dev) -->
 
+- ⚡ Guess what's the Next framework I'll be learning 
+
 <!-- - ⚡ Fun fact **I love Postgres because of the Elephant🐘 and I would like to 'git'⚡ it** -->
 
 - 💡Interesting fact: We can do machine learning on the browser using JavaScript
