@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I am currently working on **improving my tech skills** -->
 
-- 🌱 I’m currently learning **Data structures and algorithms with JavaScript**
+- 🌱 I’m currently learning **Reusability and Performance in React App**
 
 <!-- - 🤝 I’m looking forward to helping **others and myself learn** -->
 
