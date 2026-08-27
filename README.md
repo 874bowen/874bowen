@@ -77,7 +77,7 @@ Exploring practical applications of AI agents and automation for real-world busi
 
 * Portfolio: https://ivan.sevenlypro.com
 * GitHub: https://github.com/874bowen
-* LinkedIn: [Add your LinkedIn URL]
+* LinkedIn: [@ivan-bowen](www.linkedin.com/in/ivan-bowen)]
 * Email: [bowenivan16@gmail.com](mailto:bowenivan16@gmail.com)
 
 ---
