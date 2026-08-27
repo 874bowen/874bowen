@@ -85,7 +85,3 @@ Exploring practical applications of AI agents and automation for real-world busi
 <p align="center">
   <i>Building software that solves real problems.</i>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=874bowen&show_icons=true&locale=en&layout=compact" alt="Ivan Bowen's top languages" />
-</p>
